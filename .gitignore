@@ -133,3 +133,4 @@ dmypy.json
 
 # Other files
 .DS_Store
+nohup.out
