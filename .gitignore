@@ -130,3 +130,6 @@ dmypy.json
 
 # vagrant
 .vagrant/
+
+# Other files
+.DS_Store
